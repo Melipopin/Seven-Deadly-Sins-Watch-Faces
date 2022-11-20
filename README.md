@@ -7,4 +7,4 @@ Seven Deadly Sins Watch Faces for Your wearOS Watch
 
 ## How to install
 
-### 1. Activate ADB debuging
+### 1. Activate ADB debuging on Your watch
