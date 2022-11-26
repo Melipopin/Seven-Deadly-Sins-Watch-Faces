@@ -75,7 +75,7 @@ At the end of the installation, the installation window closes automatically.
 
 ### 3. Apply your watch faces
 
-The only thing left is - to setup your new watch face
+The only thing left is - to apply your new watch face
 
 Go to the watch face selection mode by holding anywhere on the main screen, and go to the end of the list to the **"Add watch face"** button.
 
